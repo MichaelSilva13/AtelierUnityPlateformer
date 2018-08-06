@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Michael\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_Atelier Unity Plateformer.-1897399640.00" t="ExcludeRecursive" />
+    <e p="D:\Atelier Unity Plateformer" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="GameOver.cs" t="Include" />
+        <e p="RPG Character Animation Pack" t="Include">
+          <e p="Code" t="Include">
+            <e p="CameraController.cs" t="Include" />
+            <e p="RPGCharacterControllerFREE.cs" t="Include" />
+            <e p="RPGCharacterGUI.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BasicEnemy.cs" t="Include" />
+          <e p="CameraFollow.cs" t="Include" />
+          <e p="Feet.cs" t="Include" />
+          <e p="Health.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="PlayerHealth.cs" t="Include" />
+        </e>
+        <e p="test.cs" t="Include" />
+      </e>
+      <e p="Atelier Unity Plateformer.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
