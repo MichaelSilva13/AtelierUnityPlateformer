@@ -5,6 +5,7 @@
     <e p="D:\Atelier Unity Plateformer" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="GameController.cs" t="Include" />
         <e p="GameOver.cs" t="Include" />
         <e p="RPG Character Animation Pack" t="Include">
           <e p="Code" t="Include">
